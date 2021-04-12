@@ -24,7 +24,7 @@ steps:
     subscriptionId: '966733ac-57d5-4107-8c71-2ed21fe4a466'
     action: 'Create Or Update Resource Group'
     resourceGroupName: 'rg-nonprod-dev'
-    location: 'East US'
+    location: 'Central US'
     templateLocation: 'Linked artifact'
     csmFile: 'C:\demo1\demoCICDarm\azuredeploy.json'
     csmParametersFile: 'C:\demo1\demoCICDarm\azuredeploy.parameters.json'
